@@ -63,7 +63,7 @@ body {
     transform: translate(-50%, -50%);
     top: 61%;
     left: 50%;
-   }
+}
 h1 {
 	color: #ffffff;
 	font-size: 60px;
@@ -82,7 +82,7 @@ h1 {
 h1 .lg {
 	color: #ffffff;
 	font-size: 60px;
-	font-weight: 700;
+	font-weight: 700px;
 	line-height: 25px;
 	text-transform: uppercase;
 	border-bottom: 3px solid #fff;
@@ -103,22 +103,76 @@ h1 .lg {
 .btn {
 	display: line-block;
 	vertical-align: middle;
-	height: 56px;
-	padding: 10px 35px 10px;
+	padding: 15px 30px 15px;
 	border: 2px solid #ffffff;
 	background-color: transparent;
 	color: #ffffff;
 	font-family: "Roboto";
 	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	width: 150px;
+	margin: 50px 0 0;
+}
+
+.conteiner {
+}
+
+.main_nav {
+	text-align: center;
+}
+
+.container {
+	height: 70px;
+	background-color: #252e30;
+	justify-content: space-between;
+
+}
+
+.navigation {
+	font-family: Roboto;
+	line-height: 30px;
+	text-transform: uppercase;
+	font-size: 16px;
+	text-decoration: none;
+	list-style: none;
+	display: flex;
+	margin-right: auto;
+	align-items: center;
+}
+
+.logo {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	background-color: #4b5456;
+	display: flex;
+	margin-right: auto;
+	align-items: center;
+}
+
+.FOCAL {
+	color: #2ecc71;
+	font-family: Roboto;
+	font-size: 30px;
 	font-weight: 700;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.menu_item {
+	margin-left: 40px;
+}
+
+.menu_link {
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 30px;
 	text-transform: uppercase;
 	text-decoration: none;
 }
 
-.main_nav {
-	padding: 0px 0px; 
-}
-.container {
-	height: 70px;
-	background-color: #252e30;
+.menu_link:hover {
+	color: #2ecc71;
 }
