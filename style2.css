@@ -125,6 +125,7 @@ h1 .lg {
 .main_nav {
 	text-align: center;
 	background-color: #252e30;
+	margin-bottom: 100px;
 }
 
 .main_naw_wrap {
@@ -167,6 +168,7 @@ h1 .lg {
 	padding: 5px 16px;
 	margin-right: 12px;
 	background: #4b5456;
+	margin: 0 0 0 -70px;
 }
 .logo-dec {
 	color: #2ecc71;
@@ -200,4 +202,31 @@ h1 .lg {
 
 .menu_link:hover {
 	color: #2ecc71;
+}
+
+.toparea {
+	color: #566366;
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	width: 410px;
+}
+
+.text_values {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	width: 350px;
+}
+.hobbies {
+    width: 1180px;
+    display: block;
+    margin: 0 auto;
+}
+.hobbies_wrap {
+	display: -webkit-box;
 }
