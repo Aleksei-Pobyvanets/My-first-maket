@@ -211,7 +211,7 @@ h1 .lg {
 	font-weight: 700;
 	line-height: 24px;
 	text-transform: uppercase;
-	width: 410px;
+	width: 400px;
 }
 
 .text_values {
@@ -220,7 +220,7 @@ h1 .lg {
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 30px;
-	width: 350px;
+	width: 400px;
 }
 .hobbies {
     width: 1180px;
@@ -229,12 +229,13 @@ h1 .lg {
 }
 .hobbies_wrap {
 	display: -webkit-box;
+	margin-bottom: 40px;
 }
  .text_wrap {
  	width: 1180px;
-    display: block;
+    display: -webkit-box;
     margin: 0 auto;
 }
 .text_wrapper {
-	display: -webkit-box;
+	display: block;
 }
