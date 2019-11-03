@@ -226,6 +226,7 @@ h1 .lg {
     width: 1180px;
     display: block;
     margin: 0 auto;
+	margin-bottom: 88px;
 }
 .hobbies_wrap {
 	display: -webkit-box;
@@ -238,4 +239,64 @@ h1 .lg {
 }
 .text_wrapper {
 	display: block;
+}
+
+.cont {
+	height: 754px;
+	display: block;
+    margin-left: 712px;
+    margin-right: 215px;
+}
+.img1 {
+	background: url("images/img1.png") no-repeat;
+	background-color: #f2f2f1;
+}
+.img1:hover {
+	background: url("images/img2.png") no-repeat;
+	background-color: #f2f2f1;
+}
+.toparea1 {
+	color: #566366;
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	width: 150px;
+	padding: 100px 0 0 0;
+	margin-bottom: 40px;
+}
+.margin_top {
+
+}
+.text_values1 {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	width: 680px;
+	margin-bottom: 68px;
+}
+.img2 {
+	background: url("images/icon1.png") no-repeat;
+	padding: 0 0 0 65px;
+}
+.text_in_btm {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	line-height: 30px;
+}
+.head_text {
+	color: #566366;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	margin-bottom: 13px;
+}
+.webdes1 {
+	width: 315px;
 }
