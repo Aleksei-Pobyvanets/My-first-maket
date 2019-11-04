@@ -280,6 +280,7 @@ h1 .lg {
 }
 .img2 {
 	background: url("images/icon1.png") no-repeat;
+	position: absolute;
 	padding: 0 0 0 65px;
 }
 .text_in_btm {
@@ -299,4 +300,37 @@ h1 .lg {
 }
 .webdes1 {
 	width: 315px;
+}
+.img3 {
+	background: url("images/icon2.png") no-repeat;
+	position: relative;
+	left: 370px;
+}
+.webdes2 {
+	width: 305px;
+	position: relative;
+	top: 0px;
+	left: 50px;
+}
+.img4 {
+	background: url("images/icon3.png") no-repeat;
+	position: absolute;
+	margin-top: 50px;
+	padding: 0 0 0 65px;
+}
+.webdes3 {
+	width: 305px;
+}
+
+.img5 {
+	background: url("images/icon4.png") no-repeat;
+	position: relative;
+	margin-top: 50px;
+	left: 370px;
+}
+.webdes4 {
+	width: 305px;
+	position: relative;
+	top: 0px;
+	left: 50px;
 }
