@@ -382,3 +382,9 @@ h1 .lg {
 .margin_top1 {
 	margin-top: 70px;
 }
+.progress_box {
+	display: block;
+    margin-right: 0px;
+    margin-left: 640px;
+    margin-top: -300px;
+}
