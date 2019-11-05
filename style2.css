@@ -245,7 +245,7 @@ h1 .lg {
 	height: 754px;
 	display: block;
     margin-left: 712px;
-    margin-right: 215px;
+    margin-right: 415px;
 }
 .img1 {
 	background: url("images/img1.png") no-repeat;
@@ -387,4 +387,145 @@ h1 .lg {
     margin-right: 0px;
     margin-left: 640px;
     margin-top: -300px;
+}
+/* PHOTOSHOP */
+.progress_box_litle1 {
+	margin-bottom: 40px;
+}
+.progress1 {
+	width: 519px;
+	height: 30px;
+	background-color: #2ecc71;
+}
+.progress1_1 {
+	background-color:#f2f2f1;
+	width: 560px;
+	height: 30px;
+}
+.procents1 {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 30px;
+	position: absolute;
+    margin-left: 480px;
+}
+
+/* ILLUSTRATOR */
+.progress_box_litle2 {
+	margin-bottom: 40px;
+}
+.progress2 {
+	width: 475px;
+	height: 30px;
+	background-color: #2ecc71;
+}
+.progress2_2 {
+	background-color:#f2f2f1;
+	width: 560px;
+	height: 30px;
+}
+.procents2 {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 30px;
+	position: absolute;
+    margin-left: 436px;
+}
+
+/* HTML/CSS */
+.progress_box_litle3 {
+	margin-bottom: 40px;
+}
+.progress3 {
+	width: 519px;
+	height: 30px;
+	background-color: #2ecc71;
+}
+.progress3_3 {
+	background-color:#f2f2f1;
+	width: 560px;
+	height: 30px;
+}
+.procents3 {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 30px;
+	position: absolute;
+    margin-left: 480px;
+}
+
+/* PHP/MYSQL */
+.progress_box_litle4 {
+	margin-bottom: 40px;
+}
+.progress4 {
+	width: 357px;
+	height: 30px;
+	background-color: #2ecc71;
+}
+.progress4_4 {
+	background-color:#f2f2f1;
+	width: 560px;
+	height: 30px;
+}
+.procents4 {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 30px;
+	position: absolute;
+    margin-left: 318px;
+}
+
+.img66 {
+	background: url("images/container.png")  no-repeat center top;
+	height: 441px;
+	text-align: center;
+	background-size: cover;
+}
+
+/* Resume */
+
+.toparea3 {
+	position: relative;
+	margin: 0 auto;
+	top: 100px; 
+	color: #566366;
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+}
+.lorem1 {
+	position: relative;
+	top: 100px;
+	margin: 0 auto;
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	text-align: center;
+}
+.btn22 {
+	position: relative;
+	top: 160px;
+    vertical-align: middle;
+    padding: 15px 20px 15px;
+    border: 2px solid #2ecc71;
+    background-color: transparent;
+    color: #2ecc71;
+    font-family: "Roboto";
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
 }
