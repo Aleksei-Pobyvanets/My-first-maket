@@ -23,22 +23,3 @@ open cli command line interface (cmd)
 
 
 
-
-<div>
-	<h3 class="head_text">Photoshop</h3>
-	<div class="progress1">
-		<p class="procents1">90%</p>
-	</div>
-	<h3 class="head_text">>Illustrator</h3>
-	<div class="progress2">
-		<p class="procents2">80%</p>
-	</div>
-	<h3 class="head_text">>HTML / CSS</h3>
-	<div class="progress3">
-		<p class="procents3">90%</p>
-	</div>
-	<h3 class="head_text">>PHP / MYSQL</h3>
-	<div class="progress4">
-		<p class="procents4">70%</p>
-	</div>
-</div>
