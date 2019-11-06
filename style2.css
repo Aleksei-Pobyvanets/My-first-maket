@@ -74,7 +74,7 @@ h1 {
 	color: #ffffff;
 	font-size: 60px;
 	font-weight: 700;
-	text-transform: uppercase;s
+	text-transform: uppercase;
 	padding: 5px 0;
 }
 .lg:before {
@@ -528,4 +528,59 @@ h1 .lg {
     font-size: 18px;
     text-transform: uppercase;
     text-decoration: none;
+}
+
+.my_education {
+	height: 800px;
+    margin-left: 210px;
+    margin-right: 840px;
+    display: block;
+}
+.toparea4 {
+	color: #566366;
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+	margin-top: 80px;
+}
+.text_values9 {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	width: 550px;
+}
+
+/* My educatoins */
+
+.graph1 {
+	color: #566366;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+}
+.abc1 {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+}
+.btn11 {
+	background-color: #2ecc71;
+	vertical-align: middle;
+	text-decoration: none;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 30px;
+	text-transform: uppercase;
+	padding: 10px 8px 8px;
 }
