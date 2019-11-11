@@ -532,8 +532,6 @@ h1 .lg {
 
 .my_education {
 	height: 800px;
-    margin-left: 210px;
-    margin-right: 840px;
     display: block;
 }
 .toparea4 {
@@ -556,7 +554,15 @@ h1 .lg {
 }
 
 /* My educatoins */
-
+.ffff22 {
+	margin-right: 640px;
+}
+.ggg {
+    height: 800px;
+    display: block;
+    margin: 0 auto;
+    width: 1180px;
+}
 .graph1 {
 	color: #566366;
 	font-family: Roboto;
@@ -564,6 +570,7 @@ h1 .lg {
 	font-weight: 700;
 	line-height: 24px;
 	text-transform: uppercase;
+    margin-bottom: 6px;
 }
 .abc1 {
 	color: #919191;
@@ -571,6 +578,7 @@ h1 .lg {
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 30px;
+	margin-bottom: 6px;
 }
 .btn11 {
 	background-color: #2ecc71;
@@ -582,5 +590,35 @@ h1 .lg {
 	font-weight: 700;
 	line-height: 30px;
 	text-transform: uppercase;
-	padding: 10px 8px 8px;
+	padding: 5px 10px 5px;
+}
+.fff {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+}
+.fff:before {
+	content: "";
+    height: 1px;
+    width: 100%;
+    background-color: #cccccc;
+    position: absolute;
+	margin-top: -20px
+}
+.fgf1 {
+	position: absolute;
+    display: block;
+    margin-top: -180px;
+    margin-left: 624px;
+}
+.fgf2 {
+	position: absolute;
+    display: block;
+    margin-top: 110px;
+    margin-left: 624px;
+}
+.ggg1 {
+	margin-top: 50px;
 }
