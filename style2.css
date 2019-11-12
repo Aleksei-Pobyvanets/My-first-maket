@@ -558,7 +558,7 @@ h1 .lg {
 	margin-right: 640px;
 }
 .ggg {
-    height: 800px;
+    height: 720px;
     display: block;
     margin: 0 auto;
     width: 1180px;
@@ -616,9 +616,105 @@ h1 .lg {
 .fgf2 {
 	position: absolute;
     display: block;
-    margin-top: 110px;
+    margin-top: 130px;
     margin-left: 624px;
 }
 .ggg1 {
 	margin-top: 50px;
+}
+.ggg2 {
+	margin-top: 50px;
+}
+
+
+/* Work Experience */
+.ffff11 {
+	width: 550px;
+}
+.mein_backgr {
+	height: 1130px;
+    display: block;
+    margin: 0 auto;
+    width: 1180px;
+}
+
+.gggg1:before {
+	content: "";
+    height: 1px;
+    width: 1180px;
+    background-color: #cccccc;
+    position: absolute;
+	margin-top: -100px;
+}
+.toparea5 {
+	color: #566366;
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+	margin-top: 100px;
+}
+.abc2 {
+	color: #919191;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 12px;
+}
+.fgf4 {
+	position: absolute;
+    display: block;
+    margin-top: -177px;
+    margin-left: 624px;
+}
+.graph2 {
+	color: #566366;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-bottom: 9px;
+}
+.text_values10 {
+	color: #919191;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 550px;
+    margin-top: -10px;
+}
+.fgf5 {
+	position: absolute;
+    display: block;
+    margin-top: 136px;
+    margin-left: 624px;
+}
+.graph3 {
+	color: #566366;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-bottom: 9px;
+}
+.fgf6 {
+	position: absolute;
+    display: block;
+    margin-top: 450px;
+    margin-left: 624px;
+}
+.graph4 {
+	color: #566366;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-bottom: 9px;
 }
