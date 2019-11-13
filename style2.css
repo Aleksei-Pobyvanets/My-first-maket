@@ -780,7 +780,7 @@ h1 .lg {
 	display: block;
 	margin: 0 auto;
 	width: 1180px;
-	height: 1400px;
+	height: 1395px;
 }
 .toparea51 {
 	color: #566366;
@@ -937,3 +937,79 @@ h1 .lg {
 	color-profile: #2ecc71;
 	opacity: 0.75;
 } 
+/* CONTACT ME */
+.backgra22{
+	background-color: #252e30;
+	height: 900px;
+	width: 100%;
+	display: block;
+}
+.cont_me_1{
+	width: 530px;
+	display: block;
+}
+.backgra_cont1 {
+	display: block;
+	width: 1180px;
+	margin: 0 auto;
+	height: 900px;
+	position: relative;
+    padding: 95px 0px 0px 0px;
+}
+.cont_contact {
+	color: #ffffff;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+.text_cont_me {
+	color: #919191;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 560px;
+    margin-bottom: 30px;
+}
+.e-mail1 {
+	color: #ffffff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 50px 0px 0px;
+}
+.e-mail2 {
+	color: #ffffff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 45px 0px 0px;
+}
+.e-mailgg {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    text-decoration: none;
+}
+.phone {
+	color: #919191;
+	font-family: Roboto;
+	font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.email222 {
+	position: relative;
+    display: -webkit-box;
+}
+.phone212 {
+	position: relative;
+    display: -webkit-box;
+}
