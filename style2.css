@@ -1013,3 +1013,37 @@ h1 .lg {
 	position: relative;
     display: -webkit-box;
 }
+/* Name */
+.name1 {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	position: relative;
+    margin-bottom: 10px;
+}
+.cont_name1 {
+	width: 540px;
+	height: 56px;
+	background-color: #4b5456;
+	border: 0px;
+}
+.name_cont333 {
+	position: relative;
+    margin-top: -330px;
+    margin-left: 642px;
+}
+.name2 {
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	position: relative;
+}
+.name_cont334 {
+	position: relative;
+    margin-top: -430px;
+    margin-left: 642px;
+}
